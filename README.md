@@ -1,6 +1,6 @@
 ### Raesene's Repos
 
-I'm a security consultant who's generally into containers, ruby and pentesting.  Most of my repos will relate to one or more of those.
+I'm a Cloud Native Security Advocate who's generally into containers, cloud native, ruby and pentesting.  Most of my repos will relate to one or more of those.
 
 Possible repos of interest that I've been working on recently :-
 
