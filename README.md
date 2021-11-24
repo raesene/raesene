@@ -4,6 +4,7 @@ I'm a Cloud Native Security Advocate who's generally into containers, cloud nati
 
 Possible repos of interest that I've been working on recently :-
 
+- [Sycamore](https://github.com/raesene/sycamore). A rails app for managing [Deciduous](https://github.com/rpetrich/deciduous) Attack Trees.
 - [Kube Security Lab](https://github.com/raesene/kube_security_lab/). This is a setup for learning about Kubernetes security by attacking sample clusters built with [kind](https://github.com/kubernetes-sigs/kind) . It uses Ansible playbooks to spin up clusters with known vulnerbilities for you to practice on.
 - [Container Security Workstation](https://github.com/raesene/container_sec_workstation). A set of Ansible playbooks for automating the building of VMs, WSL instances and Docker images with a variety of handy container security tooling.
 - [Container Security Site](https://www.container-security.site/) - Site with some introductory links and information for working with containers, both as a security reviewer and cluster owner.
