@@ -1,6 +1,6 @@
 ### Raesene's Repos
 
-I'm a Cloud Native Security Advocate who's generally into containers, cloud native, ruby and pentesting.  Most of my repos will relate to one or more of those.
+I'm a Container Security Advocate who's generally into containers, cloud native, ruby and pentesting.  Most of my repos will relate to one or more of those.
 
 Possible repos of interest that I've been working on recently :-
 
@@ -11,7 +11,7 @@ Possible repos of interest that I've been working on recently :-
 
 
 
-📫 You can find me on [my blog](https://raesene.github.io/), [Twitter](https://twitter.com/raesene/) or [Linkedin](https://www.linkedin.com/in/rorym/)
+📫 You can find me on my [portfolio site](https://www.mccune.org.uk), [blog](https://raesene.github.io/), [Twitter](https://twitter.com/raesene/) or [Linkedin](https://www.linkedin.com/in/rorym/)
 
 <!--
 **raesene/raesene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
