@@ -13,8 +13,7 @@ Possible repos of interest that I've been working on recently :-
 
 
 
-📫 You can find me on my [portfolio site](https://www.mccune.org.uk), [blog](https://raesene.github.io/), [Twitter](https://twitter.com/raesene/) or [Linkedin](https://www.linkedin.com/in/rorym/) or <a rel="me" href="https://infosec.exchange/@raesene">Mastodon</a>
-
+📫 You can find me on my [portfolio site](https://www.mccune.org.uk), [blog](https://raesene.github.io/), [Blue Sky](https://bsky.app/profile/mccune.org.uk), [Mastodon](https://infosec.exchange/@raesene) or [Linkedin](https://www.linkedin.com/in/rorym/) 
 <!--
 **raesene/raesene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
